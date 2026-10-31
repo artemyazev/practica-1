@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="UnitTestProject1/BankAccountTests.csproj" Id="541d2693-36ad-4616-8e21-712bc1231f82" />
+  <Project Path="yazev1practica/BankAccountNS.csproj" Id="d33bf59e-3a95-41fe-9795-54295b401195" />
+</Solution>
